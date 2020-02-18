@@ -1,0 +1,180 @@
+#Diablo 2 item tiers
+
+Created by u/youbetterdont on 5/11/19. 
+
+This was inspired by this thread: https://www.reddit.com/r/diablo2/comments/bn5uxk/anyone_know_a_good_resource_for_determining_which/?utm_source=share&utm_medium=ios_app
+
+##History
+* v0.3, 5/12/19: added treach bases and more ebugged bases
+* v0.2, 5/12/19: added socketables. Added cat’s eye and metalgrid. Moved war travs.
+* v0.1, 5/11/19: first release
+
+##Rationale
+Probably most helpful to think of items in tiers. When muling, I would throw out the lowest tier first. Assume average roll for listed position, otherwise knock it up or down a tier. These tiers aren’t a reflection of how good I think the item is, but some combination of usefulness, rarity, and trophy status. So even though shako is in tier 3, that doesn’t mean it’s not the BIS helm for a bunch of different builds.
+
+Another way to say it is that these are ranked by how painful it would be for me to leave the item on the ground.
+
+##Sets and uniques 
+
+###Tier 0
+* really well rolled tier 1 items
+
+###Tier 1
+* griffon’s
+* death’s fathom
+* death’s web
+* eth 3os tomb reaver
+* eth death cleaver
+* 2os crown of ages
+* Tyreal’s might
+
+###Tier 2
+* arach
+* eth reaper’s
+* eth Andy’s visage
+* nightwing’s veil
+* SoJ
+* BK ring
+* Mara’s
+* lightning ormus
+* Blizzard ormus
+* 3 PNB darkforce 
+
+###Tier 3 
+* shako
+* Tal armor
+* Tal amulet
+* Andy’s
+* War travs 
+* Eth treks
+* Eth vgaze
+* Eth titan’s
+* Steelrend
+* Stormlash
+* Wisp projector
+* 3os head hunter’s glory
+* 2os giant skull
+* Windforce
+* Shadow dancer
+* Asteron’s 
+
+###Tier 4 
+* oculus
+* Ondal’s
+* HoZ
+* titan’s
+* vmagi
+* gore rider
+* aldur’s boots
+* string of ears
+* ravenfrost
+* Highlord’s
+* Dracul’s grasp
+* Arreat’s face
+* Eth steelshade
+* Eth crown of thieves
+* Eth ribcracker
+* Eth windhammer
+* Tgods 
+* Dungo’s
+* Eth kelpie snare
+* Eth hone sundan
+* Eth skullder’s
+* Eth gladiator’s bane
+* Eth duriel’s shell
+* Nos coil
+* Stormshield
+* Wizardspike
+* Eth lacerator
+* Eth warshrike
+* Metalgrid
+
+###Tier 5 
+* magefist
+* guillame’s face
+* goblin toe
+* laying of hands
+* Trang Oul’s claws
+* dwarf star
+* Ribcracker
+* Jalal’s
+* Silkweave
+* Waterwalk
+* Tal mask
+* Vampire gaze
+* Steelshade
+* Crown of thieves
+* 30 nagel 
+* Ravenclaw 
+* Bloodfist
+* Hotspur
+* Kelpie snare
+* Valkyrie wing 
+* Razortail
+* Fleshripper
+* 2os heaven’s light 
+* Cat’s eye
+
+###Dumpster tier
+* everything else unless I forgot something 
+
+##Socketables
+
+###Tier 0
+* near perfect tier 1 items
+* Holy shield CTA base
+
+###Tier 1
+* 4os eth Thresher or giant thresher with ED (infinity)
+* 4os, 1300+ ebugged sacred armor (fort)
+* 4os, 40@+, 330+ ebugged sacred targe or 450+ vortex (exile)
+* 5os eth berserker axe with ED (death)
+* Chaos claw base with good staffmods (weapon block, fade, mind blast, venom, lightning sentry)
+* 0/5os scepter with conviction and fist of heavens (for CTA or light facets)
+* White wand base with high bone spirit *and* spear rolls
+* Other interesting staffmod items (?)
+
+###Tier 2
+* 4os eth CA or GPA with ED
+* 0/4os eth CV with ED
+* 4os eth Thresher or giant thesher
+* Eth zerker 0/6os with ED (botd)
+* Eth war pike 0/6os with ED (botd)
+* 4os, +3 grand matron bow with ED (faith)
+* Eth ettin 0/5os with ED (death)
+* Eth colossus sword 0/5os with ED (death)
+* Eth 0/6os ghost spear or GPA with ED (botd)
+* 3os superior, elite light armor with ED (enigma)
+* 5os eth zerker (death)
+* 4os, 1200+ ebugged lacquered plate (fort)
+* 40@+, 0/4os sacred targe
+* ebugged eth elite 4os paladin shield with good all resist roll
+* 5os zerker with ED (grief, beast)
+* 3os, 1300+ ebugged sacred (treach)
+* 3os, 1200+ ebugged lacquered plate (treach)
+
+###Tier 3
+* The tier 2 weapon bases without ED
+* 0/4os superior, elite light armor with ED (fort, CoH)
+* 40@+, 0/4os sacred rondache or royal shield
+* 3 energy shield 4os staff (memory)
+* 5os phase blade with ED (grief)
+* 5os zerker (grief, beast)
+* 3os/4os, 1100+ ebugged armor with <200 str req
+
+###Tier 4
+* 0/5os eth cryptic axe, Thresher
+* 5os eth GPA, giant thresher
+* 0/3os/4os elite light armor with near perfect base defense
+* 0/4os monarch
+* 3 BO, 0/3os barb hat (delirium)
+* 3 nado, 0/3os druid pelt
+* 5os phase blade (grief)
+* 3 CE white wand base
+* 3 spear white wand base
+* 3os/4os, 1000+ ebugged armor with <200 str req
+
+###Tier 5
+* 3os eth, low req 1h sword/axe (cmoon)
+* 4os flail (hoto)
+* Eth 5os low req 1h weapon (CTA)
