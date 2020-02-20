@@ -57,6 +57,7 @@ Another way to say it is that these are ranked by how painful it would be for me
 * Windforce
 * Shadow dancer
 * Asteron’s 
+* 3os Tomb Reaver
 
 ###Tier 4 
 * oculus
@@ -88,6 +89,16 @@ Another way to say it is that these are ranked by how painful it would be for me
 * Eth lacerator
 * Eth warshrike
 * Metalgrid
+* Eth Arioc's Needle
+* Eth Guardian Angel
+* Eth Shaftstop
+* Eth Runemaster
+* Trang Oul's Girth (Belt)
+* Trang Oul's Wing (Shield)
+* Griswold's Redemption (Weapon)
+* Griswold's Honor (Shield)
+* Griswold's Valor (Helm)
+* Immortal King's Soul Cage (Armor)
 
 ###Tier 5 
 * magefist
@@ -101,6 +112,8 @@ Another way to say it is that these are ranked by how painful it would be for me
 * Silkweave
 * Waterwalk
 * Tal mask
+* Tal orb
+* Tal belt
 * Vampire gaze
 * Steelshade
 * Crown of thieves
@@ -114,6 +127,14 @@ Another way to say it is that these are ranked by how painful it would be for me
 * Fleshripper
 * 2os heaven’s light 
 * Cat’s eye
+* Goldwrap
+* Skullder's Ire
+* Homunculus
+* Suicide Branch
+* Eschuta's Temper
+* Bartuc's
+* IK belt
+* IK helm
 
 ###Dumpster tier
 * everything else unless I forgot something 
