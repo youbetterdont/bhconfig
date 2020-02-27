@@ -16,9 +16,6 @@ Another way to say it is that these are ranked by how painful it would be for me
 
 ##Sets and uniques 
 
-###Tier 0
-* really well rolled tier 1 items
-
 ###Tier 1
 * griffon’s
 * death’s fathom
@@ -39,6 +36,7 @@ Another way to say it is that these are ranked by how painful it would be for me
 * lightning ormus
 * Blizzard ormus
 * 3 PNB darkforce 
+* high rolled lightning facets
 
 ###Tier 3 
 * shako
@@ -58,6 +56,7 @@ Another way to say it is that these are ranked by how painful it would be for me
 * Shadow dancer
 * Asteron’s 
 * 3os Tomb Reaver
+* cold/fire/poison facets
 
 ###Tier 4 
 * oculus
@@ -141,61 +140,86 @@ Another way to say it is that these are ranked by how painful it would be for me
 
 ##Socketables
 
-###Tier 0
-* near perfect tier 1 items
+###Tier 1
+* near perfect tier 2 items
 * Holy shield CTA base
 
-###Tier 1
+###Tier 2
 * 4os eth Thresher or giant thresher with ED (infinity)
 * 4os, 1300+ ebugged sacred armor (fort)
-* 4os, 40@+, 330+ ebugged sacred targe or 450+ vortex (exile)
+* 4os, 1200+ ebugged lacquered plate (fort)
+* 4os, 40@+, ebugged sacred targe (exile)
 * 5os eth berserker axe with ED (death)
 * Chaos claw base with good staffmods (weapon block, fade, mind blast, venom, lightning sentry)
 * 0/5os scepter with conviction and fist of heavens (for CTA or light facets)
 * White wand base with high bone spirit *and* spear rolls
 * Other interesting staffmod items (?)
 
-###Tier 2
+###Tier 3
 * 4os eth CA or GPA with ED
 * 0/4os eth CV with ED
-* 4os eth Thresher or giant thesher
+* 4os eth Thresher or giant thresher
 * Eth zerker 0/6os with ED (botd)
 * Eth war pike 0/6os with ED (botd)
 * 4os, +3 grand matron bow with ED (faith)
 * Eth ettin 0/5os with ED (death)
 * Eth colossus sword 0/5os with ED (death)
+* Eth colossus blade 5os with ED (death)
 * Eth 0/6os ghost spear or GPA with ED (botd)
 * 3os superior, elite light armor with ED (enigma)
 * 5os eth zerker (death)
-* 4os, 1200+ ebugged lacquered plate (fort)
 * 40@+, 0/4os sacred targe
 * ebugged eth elite 4os paladin shield with good all resist roll
 * 5os zerker with ED (grief, beast)
 * 3os, 1300+ ebugged sacred (treach)
 * 3os, 1200+ ebugged lacquered plate (treach)
-
-###Tier 3
-* The tier 2 weapon bases without ED
-* 0/4os superior, elite light armor with ED (fort, CoH)
-* 40@+, 0/4os sacred rondache or royal shield
-* 3 energy shield 4os staff (memory)
-* 5os phase blade with ED (grief)
-* 5os zerker (grief, beast)
-* 3os/4os, 1100+ ebugged armor with <200 str req
+* 4os, 1100+ ebugged armor with <200 str req
 
 ###Tier 4
+* The tier 3 weapon bases without ED
+* 4os elite bows with ED (merc faith)
+* 4os, +3 matriarchal bow with ED (ice)
+* 15ED, 0/4os superior, elite light armor (fort, CoH)
+* 40@+, 0/4os sacred rondache or royal shield
+* 3 energy shield 4os staff (memory)
+* 3 energy shield 5os staff (CTA)
+* 5os phase blade with ED (grief)
+* 5os zerker (grief, beast)
+* 3os/4os, 1000+ ebugged armor with <200 str req
+* 0/3os capable claws with +3 LS (plague)
 * 0/5os eth cryptic axe, Thresher
 * 5os eth GPA, giant thresher
-* 0/3os/4os elite light armor with near perfect base defense
-* 0/4os monarch
-* 3 BO, 0/3os barb hat (delirium)
-* 3 nado, 0/3os druid pelt
-* 5os phase blade (grief)
-* 3 CE white wand base
-* 3 spear white wand base
-* 3os/4os, 1000+ ebugged armor with <200 str req
+* 3os, 40@+ sacred targe (dream)
+* 15 ED, 0/3os mage plate, cuirass (enigma)
+* 15 ED, 3os gothic plate, ancient armor (enigma)
+* 15 ED, 0/4os sacred armor (barb fort)
+* 3 nado, >0 hurricane 0/3os druid pelt (delirium)
+* 3 BO, >0 shout 0/3os barb hat (delirium)
+* 15 ED, 0/3os troll nest (dream)
+* 15 ED, 0/3os bone visage, diadem (dream)
 
 ###Tier 5
+* 0/4os monarch
+* 4os +3 matriarchal bow (ice)
+* 3 BO, 0/3os barb hat (delirium)
+* 3 nado, 0/3os druid pelt
+* 3 CE white wand base
+* 5os phase blade (grief)
 * 3os eth, low req 1h sword/axe (cmoon)
 * 4os flail (hoto)
 * Eth 5os low req 1h weapon (CTA)
+* 0/3os/4os elite light armor with near perfect base defense
+* lesser used botd bases: eth archon staff, glorious axe, thunder maul
+* 4os phase blade (passion)
+
+###Beginner Tier
+* oath bases - 0/4os eth balrog blade, cryptic sword, feral axe, small crescent, conquest sword, highland blade, champion sword - 4os eth Berserker Axe, Colossus Sword, Colossus Blade, scourge, ettin axe, war spike, SE axe, decapitator, champion axe, glorious axe
+* 4os low req bow (harmony)
+* 4os elite bow (merc harmony)
+* any 0/4os, 40@+ paladin shield
+* insight golem base
+* spirit sword bases (4os or get 4 from Larzuk)
+
+
+TODO:
+* 0os weapons for rolling
