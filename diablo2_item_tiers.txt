@@ -134,6 +134,7 @@ Another way to say it is that these are ranked by how painful it would be for me
 * Bartuc's
 * IK belt
 * IK helm
+* Naj's Puzzler
 
 ###Dumpster tier
 * everything else unless I forgot something 
@@ -150,7 +151,7 @@ Another way to say it is that these are ranked by how painful it would be for me
 * 4os, 1200+ ebugged lacquered plate (fort)
 * 4os, 40@+, ebugged sacred targe (exile)
 * 5os eth berserker axe with ED (death)
-* Chaos claw base with good staffmods (weapon block, fade, mind blast, venom, lightning sentry)
+* 0/3os runic talons, suwayyah  with 3LS or 3 venom AND 3 from one of weapon block, fade, mind blast, dragon flight, shadow master (chaos)
 * 0/5os scepter with conviction and fist of heavens (for CTA or light facets)
 * White wand base with high bone spirit *and* spear rolls
 * Other interesting staffmod items (?)
@@ -174,6 +175,7 @@ Another way to say it is that these are ranked by how painful it would be for me
 * 3os, 1300+ ebugged sacred (treach)
 * 3os, 1200+ ebugged lacquered plate (treach)
 * 4os, 1100+ ebugged armor with <200 str req
+* 0/3os runic talons, suwayyah  with 3LS or 3 venom AND 1 from one of weapon block, fade, mind blast, dragon flight, shadow master (chaos)
 
 ###Tier 4
 * The tier 3 weapon bases without ED
@@ -197,6 +199,8 @@ Another way to say it is that these are ranked by how painful it would be for me
 * 3 BO, >0 shout 0/3os barb hat (delirium)
 * 15 ED, 0/3os troll nest (dream)
 * 15 ED, 0/3os bone visage, diadem (dream)
+* 0os eth elite polearms for cube socket rolling (not ogre axe)
+* 0/3os runic talons, suwayyah  with 3LS or 3 venom (chaos)
 
 ###Tier 5
 * 0/4os monarch
@@ -209,17 +213,17 @@ Another way to say it is that these are ranked by how painful it would be for me
 * 4os flail (hoto)
 * Eth 5os low req 1h weapon (CTA)
 * 0/3os/4os elite light armor with near perfect base defense
+* 3os gothic or ancient armor with ED (enigma)
 * lesser used botd bases: eth archon staff, glorious axe, thunder maul
 * 4os phase blade (passion)
+* 3os, 40@+ sacred rondache or royal shield (dream)
+* 0/3os elite claws or greater talons  with 3LS or 3 venom (chaos)
+* 0/3os capable claws with +3 venom (plague)
 
-###Beginner Tier
+###Ladder reset tier
 * oath bases - 0/4os eth balrog blade, cryptic sword, feral axe, small crescent, conquest sword, highland blade, champion sword - 4os eth Berserker Axe, Colossus Sword, Colossus Blade, scourge, ettin axe, war spike, SE axe, decapitator, champion axe, glorious axe
 * 4os low req bow (harmony)
 * 4os elite bow (merc harmony)
 * any 0/4os, 40@+ paladin shield
 * insight golem base
 * spirit sword bases (4os or get 4 from Larzuk)
-
-
-TODO:
-* 0os weapons for rolling
