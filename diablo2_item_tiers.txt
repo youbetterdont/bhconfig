@@ -98,6 +98,7 @@ Another way to say it is that these are ranked by how painful it would be for me
 * Griswold's Honor (Shield)
 * Griswold's Valor (Helm)
 * Immortal King's Soul Cage (Armor)
+* Nature's peace
 
 ###Tier 5
 * magefist
@@ -135,6 +136,8 @@ Another way to say it is that these are ranked by how painful it would be for me
 * IK belt
 * IK helm
 * Naj's Puzzler
+* The Rising Sun
+* Blade of Ali Baba
 
 ###Dumpster tier
 * everything else unless I forgot something
