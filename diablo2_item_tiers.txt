@@ -1,6 +1,6 @@
 #Diablo 2 item tiers
 
-Created by u/youbetterdont on 5/11/19. 
+Created by u/youbetterdont on 5/11/19.
 
 This was inspired by this thread: https://www.reddit.com/r/diablo2/comments/bn5uxk/anyone_know_a_good_resource_for_determining_which/?utm_source=share&utm_medium=ios_app
 
@@ -14,7 +14,7 @@ Probably most helpful to think of items in tiers. When muling, I would throw out
 
 Another way to say it is that these are ranked by how painful it would be for me to leave the item on the ground.
 
-##Sets and uniques 
+##Sets and uniques
 
 ###Tier 1
 * griffon’s
@@ -35,15 +35,15 @@ Another way to say it is that these are ranked by how painful it would be for me
 * Mara’s
 * lightning ormus
 * Blizzard ormus
-* 3 PNB darkforce 
+* 3 PNB darkforce
 * high rolled lightning facets
 
-###Tier 3 
+###Tier 3
 * shako
 * Tal armor
 * Tal amulet
 * Andy’s
-* War travs 
+* War travs
 * Eth treks
 * Eth vgaze
 * Eth titan’s
@@ -54,11 +54,11 @@ Another way to say it is that these are ranked by how painful it would be for me
 * 2os giant skull
 * Windforce
 * Shadow dancer
-* Asteron’s 
+* Asteron’s
 * 3os Tomb Reaver
 * cold/fire/poison facets
 
-###Tier 4 
+###Tier 4
 * oculus
 * Ondal’s
 * HoZ
@@ -71,11 +71,11 @@ Another way to say it is that these are ranked by how painful it would be for me
 * Highlord’s
 * Dracul’s grasp
 * Arreat’s face
-* Eth steelshade
+* Eth stealskull
 * Eth crown of thieves
 * Eth ribcracker
 * Eth windhammer
-* Tgods 
+* Tgods
 * Dungo’s
 * Eth kelpie snare
 * Eth hone sundan
@@ -99,7 +99,7 @@ Another way to say it is that these are ranked by how painful it would be for me
 * Griswold's Valor (Helm)
 * Immortal King's Soul Cage (Armor)
 
-###Tier 5 
+###Tier 5
 * magefist
 * guillame’s face
 * goblin toe
@@ -114,17 +114,17 @@ Another way to say it is that these are ranked by how painful it would be for me
 * Tal orb
 * Tal belt
 * Vampire gaze
-* Steelshade
+* Stealskull
 * Crown of thieves
-* 30 nagel 
-* Ravenclaw 
+* 30 nagel
+* Ravenclaw
 * Bloodfist
 * Hotspur
 * Kelpie snare
-* Valkyrie wing 
+* Valkyrie wing
 * Razortail
 * Fleshripper
-* 2os heaven’s light 
+* 2os heaven’s light
 * Cat’s eye
 * Goldwrap
 * Skullder's Ire
@@ -137,7 +137,7 @@ Another way to say it is that these are ranked by how painful it would be for me
 * Naj's Puzzler
 
 ###Dumpster tier
-* everything else unless I forgot something 
+* everything else unless I forgot something
 
 ##Socketables
 
