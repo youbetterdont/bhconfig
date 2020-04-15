@@ -2,4 +2,5 @@
 
 !.gitignore
 !BH.cfg
+!BH_settings.cfg
 !diablo2_item_tiers.txt
